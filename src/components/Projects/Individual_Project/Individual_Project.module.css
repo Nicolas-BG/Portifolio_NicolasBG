@@ -1,0 +1,17 @@
+.projects{
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+}
+
+.projects img {
+    margin-left: auto;
+}
+
+.backgroundColor1 {
+    background-color: rgb(184, 184, 184);
+}
+
+.backgroundColor2 {
+    background-color: rgb(200, 200, 200);
+}

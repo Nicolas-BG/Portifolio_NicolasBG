@@ -1,0 +1,39 @@
+{
+    "header": {
+        "nome": "Nícolas Bueno Gazin",
+        "sobre": "Sobre",
+        "projetos": "Projetos",
+        "qualificacoes": "Qualificações",
+        "contato": "Contato"
+    },
+    "sobre": {
+        "titulo": "Sobre mim",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software like Aldus PageMaker and Microsoft Word including versions of Lorem Ipsum."
+    },
+    "projeto": {
+        "titulo": "Projetos",
+        "descricao": "Descubra os projetos que já desenvolvi ao longo da minha carreira.",
+        "projetos": [
+            {
+                "nome": "Projeto em react de Site com Login",
+                "descricao": "Descrição do projeto 1",
+                "imagelink": "src/assets/projectImages/LoginGif.gif"
+            },
+            {
+                "nome": "Projeto em angular de guardar e comentar imagens",
+                "descricao": "Descrição do projeto 2",
+                "imagelink": "src/assets/projectImages/AngulaImagesGif.gif"
+            },
+            {
+                "nome": "Projeto em react de manejar e criar tarefas",
+                "descricao": "Descrição do projeto 3",
+                "imagelink": "src/assets/projectImages/TaskManagerGif.gif"
+            },
+            {
+                "nome": "Projeto em html, css e js de um site de organizar relações",
+                "descricao": "Descrição do projeto 4",
+                "imagelink": "src/assets/projectImages/EvoLinerGif.gif"
+            }
+        ]
+    }
+}

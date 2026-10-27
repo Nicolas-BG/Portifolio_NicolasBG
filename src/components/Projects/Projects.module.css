@@ -1,0 +1,25 @@
+.projects {
+    background-color: rgb(168, 168, 168);
+    width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.titleContainer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 2rem;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.description {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    width: 40%;
+    min-height: 10vh;
+}

@@ -1,0 +1,39 @@
+{
+  "header": {
+    "nome": "Nícolas Bueno Gazin",
+    "sobre": "Sobre",
+    "projetos": "Proyectos",
+    "qualificacoes": "Calificaciones",
+    "contato": "Contacto"
+  },
+  "sobre": {
+    "titulo": "Sobre mí",
+    "descricao": "Soy un desarrollador web con experiencia en desarrollo front-end y back-end"
+  },
+  "projeto": {
+        "titulo": "Proyectos",
+        "descricao": "Descubra los proyectos que ya he desarrollado a lo largo de mi carrera.",
+        "projetos": [
+            {
+                "nome": "Proyecto en React de un sitio web con login",
+                "descricao": "Descripción del proyecto 1",
+                "imagelink": "src/assets/projectImages/LoginGif.gif"
+            },
+            {
+                "nome": "Proyecto en Angular para guardar y comentar imágenes",
+                "descricao": "Descripción del proyecto 2",
+                "imagelink": "src/assets/projectImages/AngulaImagesGif.gif"
+            },
+            {
+                "nome": "Proyecto en React para gestionar y crear tareas",
+                "descricao": "Descripción del proyecto 3",
+                "imagelink": "src/assets/projectImages/TaskManagerGif.gif"
+            },
+            {
+                "nome": "Proyecto en HTML, CSS y JS de un sitio web para organizar relaciones",
+                "descricao": "Descripción del proyecto 4",
+                "imagelink": "src/assets/projectImages/EvoLinerGif.gif"
+            }
+        ]
+    }
+}

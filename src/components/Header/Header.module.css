@@ -1,0 +1,72 @@
+.header{
+    background-color: #7ea0ff;
+    width: 100vw;
+    height: 4.5rem;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+}
+
+.title{
+    margin-left: 0;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.block{
+    color: blue;
+    padding: 1rem;
+    min-width: 100px;
+    max-height: 2vw;
+}
+
+.option{
+    user-select: none;
+    transition: color 0.2s ease;
+}
+.option:hover{
+    cursor: pointer;
+    color:rgb(65, 65, 255)
+}
+
+.icon{
+    padding-top: 0.2rem;
+    width: 2rem;
+    height: 2rem;
+    margin-right: 1rem;
+    transition: color 0.2s ease;
+}
+.icon:hover{
+    cursor: pointer;
+    color:rgb(65, 65, 255)
+}
+
+.right{
+    margin-right: 1rem;
+}
+
+.left{
+    margin-left: auto;
+}
+
+
+.languageButtons{
+    position: fixed;
+    top: 5rem;
+    right: 1%;
+    background-color: #7ea0ff;
+    padding: 0.2rem;
+    border-radius: 0.3rem;
+}
+
+.languageButton {
+    margin: 0.1rem;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 0.3rem;
+    transition: background-color 0.3s ease;
+}
+.languageButton:hover{
+    cursor: pointer;
+    background-color: white;
+}
