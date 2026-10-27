@@ -30,9 +30,35 @@
                 "imagelink": "src/assets/projectImages/TaskManagerGif.gif"
             },
             {
-                "nome": "Projeto em html, css e js de um site de organizar relações",
+                "nome": "Projeto em HTML, CSS e JS de um site de organizar relações",
                 "descricao": "Descrição do projeto 4",
                 "imagelink": "src/assets/projectImages/EvoLinerGif.gif"
+            }
+        ]
+    },
+    "qualificacoes": {
+        "titulo": "Qualificações",
+        "descricao": "Descubra as qualificações que já adquiri ao longo da minha carreira.",
+        "qualificacao": [
+            {
+                "nome": "Técnologo em Desenvolvimento de Sistemas",
+                "instituicao": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+                "descricao": "Descrição da qualificação 1"
+            },
+            {
+                "nome": "Técnico de Administração integrado ao ensino médio",
+                "instituicao": "ETEC",
+                "descricao": "Descrição da qualificação 2"
+            },
+            {
+                "nome": "Pós Graduação em Desenvolvimento Web (Em andamento)",
+                "instituicao": "SENAC EAD",
+                "descricao": "Descrição da qualificação 3"
+            },
+            {
+                "nome": "Diversos outros Cursos",
+                "instituicao": "Alura, Udemy, IBM Skills Build, etc",
+                "descricao": "Descrição da qualificação 4"
             }
         ]
     }

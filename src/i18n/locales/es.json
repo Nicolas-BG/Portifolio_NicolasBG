@@ -35,5 +35,31 @@
                 "imagelink": "src/assets/projectImages/EvoLinerGif.gif"
             }
         ]
+    },
+    "qualificacoes": {
+        "titulo": "Calificaciones",
+        "descricao": "Descubra las calificaciones que ya adquirí a lo largo de mi carrera.",
+        "qualificacao": [
+            {
+                "nome": "Técnologo en Desarrollo de Sistemas",
+                "instituicao": "IFSP - Instituto Federal de Educación, Ciencia y Tecnología de São Paulo",
+                "descricao": "Descripción de la calificación 1"
+            },
+            {
+                "nome": "Técnico en Administración integrado a la educación secundaria",
+                "instituicao": "ETEC",
+                "descricao": "Descripción de la calificación 2"
+            },
+            {
+                "nome": "Posgrado en Desarrollo Web (En curso)",
+                "instituicao": "SENAC EAD",
+                "descricao": "Descripción de la calificación 3"
+            },
+            {
+                "nome": "Diversos otros cursos",
+                "instituicao": "Alura, Udemy, IBM Skills Build, etc",
+                "descricao": "Descripción de la calificación 4"
+            }
+        ]
     }
 }

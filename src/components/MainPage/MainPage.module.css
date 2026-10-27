@@ -1,6 +1,7 @@
 .mainPage{
-    width: 100vw;
+    width: 100%;
     overflow-x: hidden;
+    scroll-margin-top: 4.5rem;
 }
 
 .separade{

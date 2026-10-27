@@ -1,6 +1,6 @@
 .header{
     background-color: #7ea0ff;
-    width: 100vw;
+    width: 100%;
     height: 4.5rem;
     display: flex;
     flex-direction: row;
@@ -23,6 +23,8 @@
 .option{
     user-select: none;
     transition: color 0.2s ease;
+    font-size: 2rem;
+    text-decoration: none;
 }
 .option:hover{
     cursor: pointer;

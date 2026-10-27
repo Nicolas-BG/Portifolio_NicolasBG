@@ -5,7 +5,30 @@
 }
 
 .projects img {
+    height: 100%;
     margin-left: auto;
+    margin-right: 2rem;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.description {
+    font-size: 1rem;
+    line-height: 1.5;
+    width: 45%;
+    height: 90%;
+    /* background-color: white; */
+    padding: 0.5rem;
 }
 
 .backgroundColor1 {

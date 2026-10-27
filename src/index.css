@@ -9,3 +9,11 @@
   font-synthesis: none;
   text-rendering: optimizeLegibility;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    scroll-margin-top: 4.5rem;
+}

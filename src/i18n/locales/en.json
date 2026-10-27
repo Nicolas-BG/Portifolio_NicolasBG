@@ -35,5 +35,31 @@
                 "imagelink": "src/assets/projectImages/EvoLinerGif.gif"
             }
         ]
+    },
+    "qualificacoes": {
+        "titulo": "Qualifications",
+        "descricao": "Discover the qualifications I have acquired throughout my career.",
+        "qualificacao": [
+            {
+                "nome": "Associate Degree in Systems Development",
+                "instituicao": "IFSP - Federal Institute of Education, Science and Technology of São Paulo",
+                "descricao": "Description of qualification 1"
+            },
+            {
+                "nome": "Technical Diploma in Business Administration integrated with High School",
+                "instituicao": "ETEC",
+                "descricao": "Description of qualification 2"
+            },
+            {
+                "nome": "Postgraduate Degree in Web Development (In Progress)",
+                "instituicao": "SENAC EAD",
+                "descricao": "Description of qualification 3"
+            },
+            {
+                "nome": "Various Other Courses",
+                "instituicao": "Alura, Udemy, IBM Skills Build, etc",
+                "descricao": "Description of qualification 4"
+            }
+        ]
     }
 }

@@ -19,7 +19,7 @@ function Projects() {
                         ProjectName={project.nome}
                         ProjectDescription={project.descricao}
                         ProjectImage={project.imagelink}
-                        BackgroundColor_Number={(index % 3) + 1}
+                        BackgroundColor_Number={(index % 2) + 1}
                     />
                 ))}
             </div>
