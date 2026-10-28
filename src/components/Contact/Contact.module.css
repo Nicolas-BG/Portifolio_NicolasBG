@@ -1,0 +1,8 @@
+.contact{
+    width:100%;
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+}
+

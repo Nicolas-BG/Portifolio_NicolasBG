@@ -34,7 +34,9 @@
                 "descricao": "Descrição do projeto 4",
                 "imagelink": "src/assets/projectImages/EvoLinerGif.gif"
             }
-        ]
+        ],
+        "extra": "Essa página também é um projeto em react e typescript realizado por mim.",
+        "source": "Todos esses projetos podem ser encontrados no meu github."
     },
     "qualificacoes": {
         "titulo": "Qualificações",
@@ -60,6 +62,15 @@
                 "instituicao": "Alura, Udemy, IBM Skills Build, etc",
                 "descricao": "Descrição da qualificação 4"
             }
-        ]
+        ],
+        "curriculo":"Deixo aqui meu currículo completo atualizado",
+        "curriculoLink":"public/Currículo Nícolas Bueno Gazin.pdf"
+    },
+    "contato":{
+        "titulo":"Contato",
+        "email":"Email: geloquente0@gmail.com",
+        "whatsapp":"WhatsApp: +55 12 99180-5028",
+        "linkedin":"Linkedin: www.linkedin.com/in/nicolas-bueno-gazin-9905092b6",
+        "Github":"Github: https://github.com/Nicolas-BG"
     }
 }

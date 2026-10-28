@@ -1,16 +1,16 @@
 {
-  "header": {
-    "nome": "Nícolas Bueno Gazin",
-    "sobre": "About",
-    "projetos": "Projects",
-    "qualificacoes": "Qualifications",
-    "contato": "Contact"
-  },
-  "sobre": {
-    "titulo": "About me",
-    "descricao": "I am a web developer with experience in front-end and back-end development"
-  },
-  "projeto": {
+    "header": {
+        "nome": "Nícolas Bueno Gazin",
+        "sobre": "About",
+        "projetos": "Projects",
+        "qualificacoes": "Qualifications",
+        "contato": "Contact"
+    },
+    "sobre": {
+        "titulo": "About me",
+        "descricao": "I am a web developer with experience in front-end and back-end development"
+    },
+    "projeto": {
         "titulo": "Projects",
         "descricao": "Discover the projects I have developed throughout my career.",
         "projetos": [
@@ -34,7 +34,9 @@
                 "descricao": "Description of project 4",
                 "imagelink": "src/assets/projectImages/EvoLinerGif.gif"
             }
-        ]
+        ],
+        "extra": "This page is also a React and TypeScript project developed by me.",
+        "source": "All of these projects can be found on my GitHub."
     },
     "qualificacoes": {
         "titulo": "Qualifications",
@@ -60,6 +62,15 @@
                 "instituicao": "Alura, Udemy, IBM Skills Build, etc",
                 "descricao": "Description of qualification 4"
             }
-        ]
+        ],
+        "curriculo": "Here is my complete and up-to-date résumé.",
+        "curriculoLink":"public/Resume Nicolas Bueno Gazin English.pdf"
+    },
+    "contato": {
+        "titulo":"Contact",
+        "email": "Email: geloquente0@gmail.com",
+        "WhatsApp": "WhatsApp: +55 12 99180-5028",
+        "linkedin": "Linkedin: www.linkedin.com/in/nicolas-bueno-gazin-9905092b6",
+        "Github": "Github: https://github.com/Nicolas-BG"
     }
 }

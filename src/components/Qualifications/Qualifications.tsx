@@ -22,6 +22,11 @@ function Qualifications() {
                     />                    
                 ))}
             </div>
+            <div className={styles.resume}>
+                <a href={t('qualificacoes.curriculoLink')} download>
+                    {t('qualificacoes.curriculo')}
+                </a>
+            </div>
         </div>
     )
 }

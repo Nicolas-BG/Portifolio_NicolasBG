@@ -3,6 +3,7 @@ import Header from '../Header/Header';
 import About from '../About/About';
 import Projects from '../Projects/Projects';
 import Qualifications from '../Qualifications/Qualifications';
+import Contact from '../Contact/Contact';
 
 function MainPage() {
     return (
@@ -19,6 +20,7 @@ function MainPage() {
                 <Qualifications />
             </section>
             <section id="contato">
+                <Contact />
             </section>
         </div>
     )

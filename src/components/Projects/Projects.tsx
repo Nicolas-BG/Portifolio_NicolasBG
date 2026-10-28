@@ -23,6 +23,10 @@ function Projects() {
                     />
                 ))}
             </div>
+            <div className={styles.extra}>
+                <p>{t('projeto.extra')}</p>
+                <a href="https://github.com/Nicolas-BG?tab=overview&from=2026-10-01&to=2026-10-28" target="_blank" rel="noopener noreferrer">{t('projeto.source')}</a>
+            </div>
         </div>
     )
 }

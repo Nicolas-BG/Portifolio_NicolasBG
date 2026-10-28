@@ -20,6 +20,10 @@
     max-height: 2vw;
 }
 
+.block a{
+    color: blue;
+}
+
 .option{
     user-select: none;
     transition: color 0.2s ease;
